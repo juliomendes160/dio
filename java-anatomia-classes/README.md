@@ -11,3 +11,5 @@
 **[JDK](https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.html)**
 
 [jdk-8u202-windows-x64.exe](https://download.oracle.com/otn/java/jdk/8u202-b08/1961070e4c9b4e26a04e7f5a083f551e/jdk-8u202-windows-x64.exe)
+
+# [2. Aprendendo a Sintaxe Java](https://web.dio.me/course/aprendendo-a-sintaxe-java/learning/f7af647f-d6ef-4663-8a3c-1f63129ee55f?back=/track/coding-the-future-claro-java-spring-boot&tab=undefined&moduleId=undefined)
