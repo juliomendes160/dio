@@ -1,9 +1,13 @@
 public class Operadores {
     public static void main(String[] args) {
-       boolean variavel = true;
+       int a, b;
+       a = 6;
+       b = 6;
 
-       variavel = !variavel;
+       int resultado = a==b ? 1 : 0;
 
-       System.out.println(variavel);
+       
+       System.out.println(resultado);
+    
     }
 }
