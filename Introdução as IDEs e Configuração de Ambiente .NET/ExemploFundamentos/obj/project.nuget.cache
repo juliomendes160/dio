@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XsltUlsnT5TDYGdpC8Z+XnhxO+M287yjQh5N+gw+rCULweHd+UBu4ektu58AdFwDWtbc1P5rOMLBECIijC0w8Q==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\dio\\Introdução as IDEs e Configuração de Ambiente .NET\\ExemploFundamentos\\ExemploFundamentos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julio\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\julio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\julio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\julio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
