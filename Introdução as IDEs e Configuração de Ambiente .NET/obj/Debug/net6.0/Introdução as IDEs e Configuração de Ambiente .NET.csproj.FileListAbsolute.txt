@@ -1,0 +1,15 @@
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\obj\Debug\net6.0\Introdução as IDEs e Configuração de Ambiente .NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\obj\Debug\net6.0\Introdução as IDEs e Configuração de Ambiente .NET.AssemblyInfoInputs.cache
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\obj\Debug\net6.0\Introdução as IDEs e Configuração de Ambiente .NET.AssemblyInfo.cs
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\obj\Debug\net6.0\Introdução as IDEs e Configuração de Ambiente .NET.csproj.CoreCompileInputs.cache
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\obj\Debug\net6.0\Introdução as IDEs e Configuração de Ambiente .NET.sourcelink.json
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\bin\Debug\net6.0\Introdução as IDEs e Configuração de Ambiente .NET.exe
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\bin\Debug\net6.0\Introdução as IDEs e Configuração de Ambiente .NET.deps.json
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\bin\Debug\net6.0\Introdução as IDEs e Configuração de Ambiente .NET.runtimeconfig.json
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\bin\Debug\net6.0\Introdução as IDEs e Configuração de Ambiente .NET.dll
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\bin\Debug\net6.0\Introdução as IDEs e Configuração de Ambiente .NET.pdb
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\obj\Debug\net6.0\Introdução as IDEs e Configuração de Ambiente .NET.dll
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\obj\Debug\net6.0\refint\Introdução as IDEs e Configuração de Ambiente .NET.dll
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\obj\Debug\net6.0\Introdução as IDEs e Configuração de Ambiente .NET.pdb
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\obj\Debug\net6.0\Introdução as IDEs e Configuração de Ambiente .NET.genruntimeconfig.cache
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\obj\Debug\net6.0\ref\Introdução as IDEs e Configuração de Ambiente .NET.dll
