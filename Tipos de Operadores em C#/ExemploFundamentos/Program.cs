@@ -1,14 +1,24 @@
 ﻿using ExemploFundamentos.Models;
 
-bool possuiPresencaMinima = true;
-double media = 5.5;
+bool choveu = true;
+bool estaTarde = false;
 
-if(possuiPresencaMinima && media >= 7){
-    Console.WriteLine("Aprovado!");
+if(!choveu && !estaTarde){
+    Console.WriteLine("Vou pedalar!");
 }
 else{
-    Console.WriteLine("Reprovado!");
+    Console.WriteLine("Vou pedalar um outro dia");
 }
+
+// bool possuiPresencaMinima = true;
+// double media = 5.5;
+
+// if(possuiPresencaMinima && media >= 7){
+//     Console.WriteLine("Aprovado!");
+// }
+// else{
+//     Console.WriteLine("Reprovado!");
+// }
 
 // bool ehMaiorDeIdade = false;
 // bool possuiAutorizacaoDoResponsavel = false;
