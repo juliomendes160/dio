@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\GitHub\\dio\\Tipos de Operadores em C#\\ExemploFundamentos\\ExemploFundamentos.csproj": {}
+    "D:\\GitHub\\dio\\Tipos de Operadores em C#\\ExemploFundamentos\\ExemploFundamentos.csproj": {}
   },
   "projects": {
-    "d:\\GitHub\\dio\\Tipos de Operadores em C#\\ExemploFundamentos\\ExemploFundamentos.csproj": {
+    "D:\\GitHub\\dio\\Tipos de Operadores em C#\\ExemploFundamentos\\ExemploFundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\GitHub\\dio\\Tipos de Operadores em C#\\ExemploFundamentos\\ExemploFundamentos.csproj",
+        "projectUniqueName": "D:\\GitHub\\dio\\Tipos de Operadores em C#\\ExemploFundamentos\\ExemploFundamentos.csproj",
         "projectName": "ExemploFundamentos",
-        "projectPath": "d:\\GitHub\\dio\\Tipos de Operadores em C#\\ExemploFundamentos\\ExemploFundamentos.csproj",
+        "projectPath": "D:\\GitHub\\dio\\Tipos de Operadores em C#\\ExemploFundamentos\\ExemploFundamentos.csproj",
         "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-        "outputPath": "d:\\GitHub\\dio\\Tipos de Operadores em C#\\ExemploFundamentos\\obj\\",
+        "outputPath": "D:\\GitHub\\dio\\Tipos de Operadores em C#\\ExemploFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
