@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DWWTv06Osb4jxpELjtG7w6HbEbtsUP08PBa7kbUesd2DZt01xmohPO6Pfm7vm1fuX9DkEApBohyVO0WFhlnQEA==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\dio\\Tipos de Operadores em C#\\ExemploFundamentos\\ExemploFundamentos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julio\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\julio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\julio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\julio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

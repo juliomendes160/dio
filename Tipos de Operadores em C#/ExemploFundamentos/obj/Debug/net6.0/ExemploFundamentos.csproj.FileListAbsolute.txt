@@ -1,0 +1,30 @@
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.exe
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.deps.json
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.runtimeconfig.json
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.dll
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.pdb
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.AssemblyInfoInputs.cache
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.AssemblyInfo.cs
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.sourcelink.json
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.dll
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\ExemploFundamentos\obj\Debug\net6.0\refint\ExemploFundamentos.dll
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.pdb
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.genruntimeconfig.cache
+D:\GitHub\dio\Introdução as IDEs e Configuração de Ambiente .NET\ExemploFundamentos\obj\Debug\net6.0\ref\ExemploFundamentos.dll
+D:\GitHub\dio\Tipos de Operadores em C#\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.exe
+D:\GitHub\dio\Tipos de Operadores em C#\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.deps.json
+D:\GitHub\dio\Tipos de Operadores em C#\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.runtimeconfig.json
+D:\GitHub\dio\Tipos de Operadores em C#\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.dll
+D:\GitHub\dio\Tipos de Operadores em C#\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.pdb
+D:\GitHub\dio\Tipos de Operadores em C#\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\dio\Tipos de Operadores em C#\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.AssemblyInfoInputs.cache
+D:\GitHub\dio\Tipos de Operadores em C#\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.AssemblyInfo.cs
+D:\GitHub\dio\Tipos de Operadores em C#\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+D:\GitHub\dio\Tipos de Operadores em C#\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.sourcelink.json
+D:\GitHub\dio\Tipos de Operadores em C#\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.dll
+D:\GitHub\dio\Tipos de Operadores em C#\ExemploFundamentos\obj\Debug\net6.0\refint\ExemploFundamentos.dll
+D:\GitHub\dio\Tipos de Operadores em C#\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.pdb
+D:\GitHub\dio\Tipos de Operadores em C#\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.genruntimeconfig.cache
+D:\GitHub\dio\Tipos de Operadores em C#\ExemploFundamentos\obj\Debug\net6.0\ref\ExemploFundamentos.dll
