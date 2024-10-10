@@ -1,6 +1,6 @@
 ﻿using ExemploFundamentos.Models;
 
-int quantidadeEmEstoque = 10;
+int quantidadeEmEstoque = 3;
 int quantidadeCompra = 4;
 bool possivelVenda = quantidadeEmEstoque >= quantidadeCompra;
 

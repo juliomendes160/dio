@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DWWTv06Osb4jxpELjtG7w6HbEbtsUP08PBa7kbUesd2DZt01xmohPO6Pfm7vm1fuX9DkEApBohyVO0WFhlnQEA==",
+  "dgSpecHash": "KNmppan3FgQB8cExFB6oaNnT3JfpF34q8l1O59aqzakCOGoGuHNhuDjGsKlW+mK2rVaooNcZ+tizmyY/WA2pTw==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\dio\\Tipos de Operadores em C#\\ExemploFundamentos\\ExemploFundamentos.csproj",
+  "projectFilePath": "d:\\GitHub\\dio\\Tipos de Operadores em C#\\ExemploFundamentos\\ExemploFundamentos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\julio\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
     "C:\\Users\\julio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
