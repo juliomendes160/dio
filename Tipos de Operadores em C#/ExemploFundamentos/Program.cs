@@ -1,5 +1,9 @@
 ﻿using ExemploFundamentos.Models;
 
+double a = 4 / (2 + 2);
+
+Console.WriteLine(a);
+
 // int a = 5;
 
 // double b = a;
@@ -8,11 +12,11 @@
 
 // int b = Convert.ToInt32(a);
 
-int a = int.MaxValue;
+// int a = int.MaxValue;
 
-long b = a;
+// long b = a;
 
-Console.WriteLine(b);
+// Console.WriteLine(b);
 
 // int inteiro = 5;
 
