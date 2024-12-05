@@ -1,0 +1,4 @@
+[submodule "heranca"]
+	path = heranca
+	url = https://github.com/juliomendes160/dio.git
+	branch = heranca
