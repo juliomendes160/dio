@@ -1,41 +1,44 @@
 void main(List<String> arguments) {
-  double numero1 = 10.9;
-  var numero2 = 11.1;
+  String texto1 = "Dio";
+  var texto2 = "Trilha de Flutter e DART na DIO";
 
-  print("Remover ponto flutuante");
-  print(numero1.truncate());
-  print(numero2.truncate());
+  // Imprime no console o texto
+  print(texto1);
+  print(texto2);
 
-  print("Converter para inteiro.");
-  print(numero1.toInt());
-  print(numero2.toInt());
+  // Comparação se vazio
+  print(texto2.isEmpty);
+  print("".isEmpty);
+  print(" ".isEmpty);
 
-  print("Arredonda para cima.");
-  print(numero1.ceil());
-  print(numero2.ceil());
+  // Obtém o tamanho da String
+  print(texto2.length);
 
-  print("Arredonda para baixo.");
-  print(numero1.floor());
-  print(numero2.floor());
+  // Maiúscula / Minúscula
+  print(texto1.toUpperCase());
+  print(texto2.toLowerCase());
 
-  print("Retorna se o número é finito");
-  print(numero1.isFinite);
-  print(numero2.isFinite);
+  // Se uma String contém na outra
+  print(texto2.contains(texto1.toUpperCase()));
 
-  print("Retorna se o número é infinito");
-  print(numero1.isInfinite);
-  print(numero2.isInfinite);
+  // Obtém parte da String
+  print(texto2.substring(5));
+  print(texto2.substring(1, 5));
 
-  print("Retorna se o número não é um número válido");
-  print(numero1.isNaN);
-  print(numero2.isNaN);
+  // Obtém posição de um texto em uma String
+  print(texto2.indexOf("Flutter"));
+  print(texto2.indexOf("T"));
+  print(texto2.indexOf("@"));
+
+  // Substitui uma String em outra
+  print(texto2.replaceAll("a", "@"));
   
-  print("Retorna se o número é negativo");
-  print(numero1.isNegative);
-  print((numero2 * -1).isNegative);
+  // Quebra uma String por um caracter específico
+  print(texto2.split("a"));
+  print("NOME;ENDEREÇO;CEP".split(";"));
 
-  print("Converter String para inteiro");
-  print(double.parse("123.456"));
-  // print(int.parse("teste"));
-  print(int.tryParse("teste"));
+  // Remove espações
+  print(" dio ".trim());
+  print(" dio ".trimLeft());
+  print(" dio ".trimRight());
 }
