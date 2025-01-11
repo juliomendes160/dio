@@ -1,49 +1,31 @@
 void main(List<String> arguments) {
-  List<String> lstString = [];
-  var lstInt = [1, 10, 50];
-  List lstDynamic = [];
+  Map<String, dynamic> map1 = Map<String, dynamic>();
+  var map = {'zero': 0, 'one': 1, 'Two': 2};
 
-  print("Tamanho da Lista");
-  print(lstString.length);
-  print(lstInt.length);
-  print(lstDynamic.length);
+  print(map1);
+  print(map);
 
-  print(lstString);
-  print(lstInt);
-  print(lstDynamic);
+  print("Obtém valor pela chave");
+  print(map["one"]);
 
-  print("Adicionar item");
-  lstString.add("M");
-  lstString.add("B");
-  lstInt.add(90);
-  lstDynamic.add("A");
-  lstDynamic.add(10);
-  lstDynamic.add(9.5);
-  lstDynamic.add(true);
+  map.addAll({'ten': 10, 'eleven': 11});
+  print(map);
 
-  print(lstString);
-  print(lstInt);
-  print(lstDynamic);
+  print("Se vazio");
+  print(map.isNotEmpty);
+  print(map1.isEmpty);
 
-  print("Remover item");
-  lstString.remove("M");
-  lstInt.remove(90);
-  lstDynamic.remove(9.5);
+  print("Tamanho");
+  print(map.length);
 
-  print(lstString);
-  print(lstInt);
-  print(lstDynamic);
+  print("Contém chave");
+  print(map1.containsKey("eleven"));
+  print(map1.containsKey("teste"));
 
-  print("Verifica se a lista está ou não vazia");
-  print(lstString.isEmpty);
-  print(lstInt.isNotEmpty);
-
-
-  print("Ver valor contém na lista");
-  print(lstString.contains("C"));
-  print(lstDynamic.contains(false));
-
-  print("Função where");
-  print(lstInt);
-  print(lstInt.where((x) => x > 9 && x < 99));
+  map1.addAll({"Nome": "Danilo"});
+  map1.addAll({"Idade": 39});
+  map1.addAll({"Casado": true});
+  map1.addAll({"Nascimento": DateTime(1982, 12, 28)});
+  map1.addAll({"Nome": "Danilo"});
+  print(map1["Idade"]);
 }
