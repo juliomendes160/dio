@@ -1,15 +1,13 @@
 void main(List<String> arguments) {
-  dynamic var1 = "ABC";
-  var var2 = "ABC";
-  print(var2.length);
-  var1 = 10;
-  print(var1);
-  var1 = 99.54;
-  print(var1);
-  var1 = true;
-  print(var1);
-  var1 = DateTime(2022, 01, 02);
-  print(var1);
-  var1 = [10, true, "A"];
-  print(var1);
+  DateTime data1 = DateTime.now();
+  data1 = DateTime.parse("2022-02-01 11:28:57");
+
+  // Partes da data
+  print(data1);
+  print(data1.day);
+  print(data1.month);
+  print(data1.year);
+  print(data1.hour);
+  print(data1.minute);
+  print(data1.second);
 }
