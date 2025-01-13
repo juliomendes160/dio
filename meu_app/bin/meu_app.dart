@@ -9,4 +9,7 @@ void main(List<String> arguments) {
   } else {
     print("O aluno reprovou com a nota: $media");
   }
+
+  var resultado = (prova1 >= 7) ? "O aluno passou" : "O aluno reprovou";
+  print(resultado);
 }
