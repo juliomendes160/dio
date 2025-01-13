@@ -1,18 +1,22 @@
+import 'dart:convert';
+import 'dart:io';
+
 void main(List<String> arguments) {
-  var numeros = [1, 5, 9, 50, 85, 45, 90, 74];
-  var acumulador = 0;
-  for (var numero in numeros) {
+  var contador = 0;
+  var total = 10;
+  while (contador < total) {
+    contador = contador + 1;
+    print(contador);
+  }
+
+  print("Digite um número ou 'S' para sair");
+  var line = stdin.readLineSync(encoding: utf8);
+  double acumulador = 0;
+  while (line != "S") {
+    var numero = double.parse(line ?? "");
     acumulador = acumulador + numero;
-    print(numero);
+    print("Digite um número ou 'S' para sair");
+    line = stdin.readLineSync(encoding: utf8);
   }
   print(acumulador);
-
-  var letras = ["B", "A", "G", "k"];
-  for (var letra in letras) {
-    print(letra);
-  }
-
-  letras.forEach((element) {
-    print(element);
-  });
 }
