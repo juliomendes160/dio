@@ -17,17 +17,22 @@ void main(List<String> arguments) {
   var operacao = line ?? "";
 
   double resultado = 0;
-  if (operacao == "+") {
-    resultado = numero1 + numero2;
-  } else if (operacao == "-") {
-    resultado = numero1 - numero2;
-  } else if (operacao == "*") {
-    resultado = numero1 * numero2;
-  } else if (operacao == "/") {
-    resultado = numero1 / numero2;
-  } else {
-    print("Operação inválida!");
-    exit(0);
+  switch (operacao) {
+    case "+":
+      resultado = numero1 + numero2;
+      break;
+    case "-":
+      resultado = numero1 - numero2;
+      break;
+    case "*":
+      resultado = numero1 * numero2;
+      break;
+    case "/":
+      resultado = numero1 / numero2;
+      break;
+    default:
+      print("Operação inválida!");
+      exit(0);
   }
   print("Operação solicitada: $operacao");
   print("O resultado da operação é: $resultado");
