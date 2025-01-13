@@ -1,17 +1,18 @@
-import 'dart:convert';
-import 'dart:io';
-
 void main(List<String> arguments) {
-  var resultado = 0;
-  var quantidade = 0;
-  print("Informe a quantidade de núemros:");
-  var line = stdin.readLineSync(encoding: utf8);
-  quantidade = int.parse(line ?? "0");
-  for (var i = 0; i < quantidade; i++) {
-    print("Informe o número:");
-    line = stdin.readLineSync(encoding: utf8);
-    var numero = int.parse(line ?? "0");
-    resultado = resultado + numero;
-    print("$i - $resultado");
+  var numeros = [1, 5, 9, 50, 85, 45, 90, 74];
+  var acumulador = 0;
+  for (var numero in numeros) {
+    acumulador = acumulador + numero;
+    print(numero);
   }
+  print(acumulador);
+
+  var letras = ["B", "A", "G", "k"];
+  for (var letra in letras) {
+    print(letra);
+  }
+
+  letras.forEach((element) {
+    print(element);
+  });
 }
