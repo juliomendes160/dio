@@ -1,0 +1,44 @@
+{
+    "terminal.integrated.defaultProfile.linux": "bash",
+    
+    "terminal.integrated.profiles.linux": {
+
+        "bash": {
+            "path": "bash",
+            "icon": "terminal-bash",
+            "args": ["--init-file","${workspaceFolder}/.vscode/.sh"]
+        },
+        "zsh": {
+            "path": "zsh"
+        },
+        "fish": {
+            "path": "fish"
+        },
+        "tmux": {
+            "path": "tmux",
+            "icon": "terminal-tmux"
+        },
+        "pwsh": {
+            "path": "pwsh",
+            "icon": "terminal-powershell"
+        }
+    },
+
+    "terminal.integrated.profiles.windows": {
+
+        "PowerShell": {
+           "path": "C:\\Windows/System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+            "args": ["-noexit", "-command", "${workspaceFolder}\\.vscode\\.ps1"]
+        },
+        "Command Prompt": {
+            "path": "C:\\Windows\\System32\\cmd.exe",
+            "args": ["/K", "${workspaceFolder}\\.vscode\\.cmd"]
+           
+        },
+        "Git Bash": {
+            "path": "C:\\Program Files\\Git\\bin\\bash.exe",
+            "args": [ "--init-file", "${workspaceFolder}\\.vscode\\.bash"]
+        }
+    },
+    
+}
