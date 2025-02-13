@@ -1,0 +1,13 @@
+{
+    "name": "julio/2.2-gerenciamento-de-pacotes-em-php-com-composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Julio Mendes",
+            "email": "juliomendes160@hotmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    }
+}

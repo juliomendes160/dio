@@ -1,0 +1,42 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			// "path": "../Formação PHP Experience/3 Boas Práticas PHP e Desenvolvimento de APIs com Laravel/3.1-Orientação-a-Objetos,-Exceções-e-Banco-de-Dados-com-PHP",
+			"path": "../Formação PHP Experience/3 Boas Práticas PHP e Desenvolvimento de APIs com Laravel/3.2-Introdução-a-APIs-e-REST-com-PHP",
+		},
+		{
+			"path": "/dev/xampp/xampp-8.1.1/app"
+		},
+	],
+	"settings": {
+		"terminal.integrated.defaultProfile.windows": "Git Bash",
+		"terminal.integrated.profiles.windows": {
+			"PowerShell": {
+				"path": "C:\\Windows/System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+				"args": [
+					"-noexit",
+					"-command",
+					"${workspaceFolder}\\.vscode\\.ps1"
+				]
+			},
+			"Command Prompt": {
+				"path": "C:\\Windows\\System32\\cmd.exe",
+				"args": [
+					"/K",
+					"${workspaceFolder}\\.vscode\\.cmd"
+				]
+			},
+			"Git Bash": {
+				"path": "C:\\Program Files\\Git\\bin\\bash.exe",
+				"args": [
+					"--init-file",
+					"\\github\\dio\\.vscode\\.bash"
+				]
+			}
+		},
+		
+	}
+}
