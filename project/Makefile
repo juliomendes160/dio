@@ -27,4 +27,4 @@ composer:
 		--entrypoint /bin/sh \
 		--volume ${PWD}:/application \
 		--workdir /application \
-		composer
+		composer:2.1.5
