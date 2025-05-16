@@ -1,0 +1,3 @@
+[submodule "angular-playground"]
+	path = angular-playground
+	url = https://github.com/felipeAguiarCode/angular-playground
