@@ -1,0 +1,16 @@
+[submodule "trilha-react-desafio01-calculadora"]
+	path = trilha-react-desafio01-calculadora
+	url = https://github.com/digitalinnovationone/trilha-react-desafio01-calculadora
+	branch = master
+[submodule "trilha-react-desafio-2"]
+	path = trilha-react-desafio-2
+	url = https://github.com/digitalinnovationone/trilha-react-desafio-2
+	branch = master
+[submodule "trilha-react-desafio-3"]
+	path = trilha-react-desafio-3
+	url = https://github.com/digitalinnovationone/trilha-react-desafio-3
+	branch = master
+[submodule "trilha-react-desafio-4"]
+	path = trilha-react-desafio-4
+	url = https://github.com/digitalinnovationone/trilha-react-desafio-4
+	branch = master
