@@ -1,0 +1,36 @@
+{
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+      "args": [
+        "-noexit",
+        "-command",
+        "& \"${workspaceFolder}\\.vscode\\.ps1\""
+      ]
+    },
+    "Command Prompt": {
+      "path": "C:\\Windows\\System32\\cmd.exe",
+      "args": [
+        "/K",
+        "%workspaceFolder%\\.vscode\\.cmd"
+      ]
+    },
+    "Git Bash": {
+      "path": "F:\\Program Files\\Git\\bin\\bash.exe",
+      "args": [
+        "-c",
+		//  "echo $code exec bash"
+		"export PATH=\"$cmd:$powershell:$code:$python\"; echo $PATH; exec bash"
+        // "\"${workspaceFolder}\\.vscode\\.bash\"; exec bash"
+      ],
+	  "env": {
+		"cmd" :"C:\\WINDOWS\\system32",
+		"powershell" :"C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;",
+		"code" :"\\Program Files\\Microsoft VS Code\\bin;",
+		"python": "\\python\\3.8.6\\bin;",
+		// "PATH": "C:\\WINDOWS\\system32;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;\\Program Files\\Microsoft VS Code\\bin;\\python\\3.8.6\\bin;"
+	  }
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+}
