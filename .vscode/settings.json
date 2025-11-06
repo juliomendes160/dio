@@ -1,0 +1,57 @@
+{
+	"terminal.integrated.profiles.windows": {
+		"PowerShell": {
+			"path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+			"args": [
+				"-noexit",
+				"-command",
+				// "${workspaceFolder}\\.vscode\\.ps1"
+				"& \"$env:workspaceFolder\\.vscode\\.ps1\""
+			]
+		},
+		"Command Prompt": {
+			"path": "C:\\Windows\\System32\\cmd.exe",
+			"args": [
+				"/K",
+				// "${workspaceFolder}\\.vscode\\.cmd"
+				"%workspaceFolder%\\.vscode\\.cmd"
+			]
+		},
+		"Git Bash": {
+			"path": "\\Program Files\\Git\\bin\\bash.exe",
+			"args": [
+				// "--init-file",
+				// "${workspaceFolder}\\.vscode\\.bash"
+				"-c",
+				"\"$workspaceFolder\\.vscode\\.bash\"; exec bash",
+			]
+		}
+	},
+	"terminal.integrated.env.windows": {
+		"cmd": "C:\\WINDOWS\\system32;",
+		"powershell": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;",
+		"code": "\\Program Files\\Microsoft VS Code\\bin;",
+		"PATH": "C:\\WINDOWS\\system32;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;\\Program Files\\Microsoft VS Code\\bin;",
+		
+		"userHome": "${userHome}",
+		"workspaceFolder": "${workspaceFolder}",
+		"workspaceFolderBasename": "${workspaceFolderBasename}",
+		"file": "${file}",
+		"fileWorkspaceFolder": "${fileWorkspaceFolder}",
+		"relativeFile": "${relativeFile}",
+		"relativeFileDirname": "${relativeFileDirname}",
+		"fileBasename": "${fileBasename}",
+		"fileBasenameNoExtension": "${fileBasenameNoExtension}",
+		"fileExtname": "${fileExtname}",
+		"fileDirname": "${fileDirname}",
+		"fileDirnameBasename": "${fileDirnameBasename}",
+		"cwd": "${cwd}",
+		"lineNumber": "${lineNumber}",
+		"columnNumber": "${columnNumber}",
+		"selectedText": "${selectedText}",
+		"execPath": "${execPath}",
+		"defaultBuildTask": "${defaultBuildTask}",
+		"pathSeparator": "${pathSeparator}",
+		"${/}": "${/}"
+	}
+}
