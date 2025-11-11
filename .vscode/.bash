@@ -1,0 +1,6 @@
+	cmd "/c rmdir "I:\\Program Files\\Microsoft VS Code""
+	cmd "/c mklink /D "I:\\Program Files\\Microsoft VS Code" "\\code\\1.105.1\\VSCode-win32-x64-1.105.1""
+	cmd "/c rmdir "I:\\Program Files\\Git""
+	cmd "/c mklink /D "I:\\Program Files\\Git" "\\git\\2.51.2\\PortableGit""
+	cmd "/c rmdir "I:\\Program Files\\Python""
+	cmd "/c mklink /D "I:\\Program Files\\Python" "\\python\\3.8.6\\python-3.8.6-embed-amd64""
