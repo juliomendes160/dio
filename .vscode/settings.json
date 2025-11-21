@@ -1,0 +1,51 @@
+{
+	"terminal.integrated.env.windows": {
+		"userHome": "${userHome}",
+		"workspaceFolder": "${workspaceFolder}",
+		"workspaceFolderBasename": "${workspaceFolderBasename}",
+		"file": "${file}",
+		"fileWorkspaceFolder": "${fileWorkspaceFolder}",
+		"relativeFile": "${relativeFile}",
+		"relativeFileDirname": "${relativeFileDirname}",
+		"fileBasename": "${fileBasename}",
+		"fileBasenameNoExtension": "${fileBasenameNoExtension}",
+		"fileExtname": "${fileExtname}",
+		"fileDirname": "${fileDirname}",
+		"fileDirnameBasename": "${fileDirnameBasename}",
+		"cwd": "${cwd}",
+		"lineNumber": "${lineNumber}",
+		"columnNumber": "${columnNumber}",
+		"selectedText": "${selectedText}",
+		"execPath": "${execPath}",
+		"defaultBuildTask": "${defaultBuildTask}",
+		"pathSeparator": "${pathSeparator}",
+		"${/}": "${/}"
+	},
+	"terminal.integrated.profiles.windows": {
+		"PowerShell": {
+			"path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+			// "args": ["-noexit", "-command", "${workspaceFolder}\\.vscode\\.ps1"]
+			"args": [
+				"-noexit",
+				"-command",
+				"& $env:workspaceFolder\\.vscode\\.ps1"
+			]
+		},
+		"Command Prompt": {
+			"path": "C:\\Windows\\System32\\cmd.exe",
+			// "args": ["/K", "${workspaceFolder}\\.vscode\\.cmd"]
+			"args": [
+				"/K",
+				"%workspaceFolder%\\.vscode\\.cmd"
+			]
+		},
+		"Git Bash": {
+			"path": "C:\\Program Files\\Git\\bin\\bash.exe",
+			// "args": [ "--init-file", "${workspaceFolder}\\.vscode\\.bash"]
+			"args": [
+				"-c",
+				"source \"$workspaceFolder\\.vscode\\.bash\"; exec bash"
+			]
+		}
+	},
+}

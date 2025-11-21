@@ -1,0 +1,6 @@
+$env:bash="C:\Program Files\Git\bin"
+$env:cmd="C:\WINDOWS\system32"
+$env:powershell="C:\WINDOWS\System32\WindowsPowerShell\v1.0"
+$env:code="C:\Program Files\Microsoft VS Code\bin"
+$env:git="C:\Program Files\Git\cmd"
+$env:PATH="$env:bash;$env:cmd;$env:powershell;$env:code;$env:git"
