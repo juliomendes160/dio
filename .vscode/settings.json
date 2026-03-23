@@ -1,0 +1,26 @@
+{
+	"terminal.integrated.profiles.windows": {
+		"PowerShell": {
+			"path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+			"args": [
+				"-noexit",
+				"-command",
+				".vscode\\.ps1"
+			],
+		},
+		"Command Prompt": {
+			"path": "C:\\Windows\\System32\\cmd.exe",
+			"args": [
+				"/K",
+				".vscode\\.cmd"
+			],
+		},
+		"Git Bash": {
+			"path": "C:\\Program Files\\Git\\bin\\bash.exe",
+			"args": [
+				"--init-file",
+				".vscode\\.bash",
+			],
+		}
+	},
+}
