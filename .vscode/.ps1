@@ -1,0 +1,6 @@
+$env:BASH_HOME="C:\Program Files\Git\bin"
+$env:CMD_HOME="C:\WINDOWS\system32"
+$env:POWERSHELL_HOME="C:\WINDOWS\System32\WindowsPowerShell\v1.0"
+$env:CODE_HOME="C:\Program Files\Microsoft VS Code\bin"
+$env:GIT_HOME="C:\Program Files\Git\mingw64\bin"
+$env:PATH="$env:BASH_HOME;$env:CMD_HOME;$env:POWERSHELL_HOME;$env:CODE_HOME;$env:GIT_HOME"
