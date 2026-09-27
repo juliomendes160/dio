@@ -1,0 +1,4 @@
+[submodule "dio-springboot-submodule"]
+	path = dio-springboot-submodule
+	url = https://github.com/digitalinnovationone/dio-springboot.git
+	branch = main

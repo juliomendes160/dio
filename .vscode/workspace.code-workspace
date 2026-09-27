@@ -1,0 +1,56 @@
+{
+	"folders": [
+		{
+			"path": "workspace"
+		},
+		{
+			"path": "dio"
+		}
+	],
+	"settings": {
+		"editor.defaultFormatter": "vscode.json-language-features",
+		"explorer.autoReveal": false,
+		"explorer.confirmDelete": false,
+		"explorer.confirmPasteNative": false,
+		"git.autoRepositoryDetection": false,
+		"gitlens.views.repositories.showStashes": true,
+		"gitlens.views.scm.grouped.hiddenViews": {
+			"commits": false,
+			"worktrees": false,
+			"branches": false,
+			"remotes": false,
+			"stashes": false,
+			"tags": false,
+			"contributors": false,
+			"repositories": false,
+			"fileHistory": false,
+			"launchpad": false,
+			"searchAndCompare": false
+		},
+		"terminal.integrated.defaultProfile.windows": "Git Bash",
+		"terminal.integrated.profiles.windows": {
+			"PowerShell": {
+				"path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+				"args": [
+					"-noexit",
+					"-command",
+					".vscode\\.ps1"
+				],
+			},
+			"Command Prompt": {
+				"path": "C:\\Windows\\System32\\cmd.exe",
+				"args": [
+					"/K",
+					".vscode\\.cmd"
+				],
+			},
+			"Git Bash": {
+				"path": "C:\\Program Files\\Git\\bin\\bash.exe",
+				"args": [
+					"--init-file",
+					".vscode\\.bash"
+				],
+			},
+		},
+	}
+}
