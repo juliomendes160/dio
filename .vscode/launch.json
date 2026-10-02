@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DioSpringSecurityApplication",
+            "request": "launch",
+            "mainClass": "dio.spring.security.DioSpringSecurityApplication",
+            "projectName": "dio-dio-spring-security"
+        }
+    ]
+}
